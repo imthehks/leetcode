@@ -15,6 +15,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/imthehks/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2974-minimum-number-game](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
@@ -22,6 +23,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/imthehks/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
