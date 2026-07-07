@@ -16,6 +16,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/imthehks/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0135-candy](https://github.com/imthehks/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0704-binary-search](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2974-minimum-number-game](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
@@ -44,6 +45,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0135-candy](https://github.com/imthehks/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Math
 | Problem Name | Difficulty |
