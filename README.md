@@ -17,6 +17,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/imthehks/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0135-candy](https://github.com/imthehks/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0605-can-place-flowers](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
@@ -66,4 +67,8 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
