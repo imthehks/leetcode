@@ -20,6 +20,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | [0135-candy](https://github.com/imthehks/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0605-can-place-flowers](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0860-lemonade-change](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2974-minimum-number-game](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 ## Binary Search
@@ -49,6 +50,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | ------- | ------- |
 | [0135-candy](https://github.com/imthehks/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0605-can-place-flowers](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
+| [0860-lemonade-change](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Math
 | Problem Name | Difficulty |
