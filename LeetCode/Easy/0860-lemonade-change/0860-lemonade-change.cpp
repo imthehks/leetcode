@@ -3,8 +3,7 @@ public:
     bool lemonadeChange(vector<int>& bills) {
         int five{0};
         int ten{0};
-        for (int i = 0; i < bills.size(); i++) {
-            int bill = bills[i];
+        for (int bill : bills) {    
             if (bill == 5) {
                 five++;
             }
