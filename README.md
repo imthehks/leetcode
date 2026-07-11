@@ -6,6 +6,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -19,6 +20,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | [0066-plus-one](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0135-candy](https://github.com/imthehks/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
+| [0283-move-zeroes](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0605-can-place-flowers](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0860-lemonade-change](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
