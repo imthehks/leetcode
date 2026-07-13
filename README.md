@@ -20,6 +20,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | [0066-plus-one](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0135-candy](https://github.com/imthehks/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
+| [0217-contains-duplicate](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0605-can-place-flowers](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
@@ -39,6 +40,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [2974-minimum-number-game](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -74,4 +76,8 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
