@@ -60,6 +60,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | ------- | ------- |
 | [0066-plus-one](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [1952-three-divisors](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
+| [2469-convert-the-temperature](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
