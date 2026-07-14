@@ -64,6 +64,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | [1952-three-divisors](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3945-digit-frequency-score](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +81,5 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [3945-digit-frequency-score](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 <!---LeetCode Topics End-->
