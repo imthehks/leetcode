@@ -27,6 +27,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | [0860-lemonade-change](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2974-minimum-number-game](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | [0066-plus-one](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [1952-three-divisors](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3945-digit-frequency-score](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Enumeration
