@@ -23,12 +23,12 @@ public:
         while (left < right) {
             totalSum += gcd(prefixGcd[left], prefixGcd[right]);
             left++;
-            if (n % 2 != 0) {
-                int mid = (n + 1) / 2;
-                if (left == mid) {
-                    break;
-                }
-            }
+            // if (n % 2 != 0) {
+            //     int mid = (n + 1) / 2;
+            //     if (left == mid) {
+            //         break;
+            //     }
+            // }
 
             right--;
         }
