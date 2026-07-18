@@ -75,6 +75,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | [2520-count-the-digits-that-divide-a-number](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3516-find-closest-person](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3516-find-closest-person/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
