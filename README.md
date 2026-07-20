@@ -33,6 +33,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3895-count-digit-appearances](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | [3658-gcd-of-odd-and-even-sums](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3895-count-digit-appearances](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
