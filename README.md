@@ -58,6 +58,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3516-find-closest-person/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3895-count-digit-appearances](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
