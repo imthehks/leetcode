@@ -6,6 +6,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
@@ -18,6 +19,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/imthehks/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0027-remove-element](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
