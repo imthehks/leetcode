@@ -28,6 +28,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | [0860-lemonade-change](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2974-minimum-number-game](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -75,6 +76,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1952-three-divisors](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2469-convert-the-temperature](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -106,5 +108,10 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3945-digit-frequency-score](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 <!---LeetCode Topics End-->
