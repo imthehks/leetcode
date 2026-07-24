@@ -81,6 +81,7 @@ Data Structures and Algorithm || C++ || Leetcode Solutions
 | [0728-self-dividing-numbers](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/0728-self-dividing-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1518-water-bottles](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1952-three-divisors](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/imthehks/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/imthehks/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
